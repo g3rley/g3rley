@@ -19,7 +19,7 @@
 
 ```javascript
 const gerley = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, PHP, Python, Lua],
   tools: [Laravel, Love2d, Flask, Node, Styled-Components, Docker],
   architecture: ["microservices", "design system pattern", "clean code"],
