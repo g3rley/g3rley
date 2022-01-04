@@ -18,10 +18,11 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const gerley = {
+const g3rley = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, PHP, Python, Lua],
+  code: [PHP, Python, Lua, Javascript, Typescript, HTML, CSS],
   tools: [Laravel, Love2d, Flask, Node, Styled-Components, Docker],
+  database: [PostgreSQL, MySQL, MongoDB],
   architecture: ["microservices", "design system pattern", "clean code"],
   goals: {
             languages: [ "Rust", "C#", "C/C++", "Scala"],
