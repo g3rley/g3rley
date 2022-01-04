@@ -1,6 +1,6 @@
-<h2> Hi, I'm Gerley Adriano! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Gerley Adriano!</h2>
 <img align='right' src="https://media3.giphy.com/media/tbPhDxjMaxTh8RuvqX/giphy.webp?cid=dda24d50iwjut8yfumzg23ix3jsku1ig0s8muqrye8u9i0fr&rid=giphy.webp&ct=s" width="230">
-<p>Software Engineer, Web Developer and Game Development Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>Software Engineer, Web Developer and Game Development Enthusiast 
 </em></p>
 
 [![Linkedin: g3rley](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerley-adriano-26a711a3/)
@@ -15,7 +15,7 @@
 [![Linux g3rley](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/g3rley)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const g3rley = {
