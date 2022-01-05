@@ -1,5 +1,4 @@
 <h2> Hi, I'm Gerley Adriano!</h2>
-<img align='right' src="https://media3.giphy.com/media/tbPhDxjMaxTh8RuvqX/giphy.webp?cid=dda24d50iwjut8yfumzg23ix3jsku1ig0s8muqrye8u9i0fr&rid=giphy.webp&ct=s" width="230">
 <p>Software Engineer, Web Developer and Game Development Enthusiast 
 </em></p>
 
