@@ -32,6 +32,10 @@ const g3rley = {
 }
 ```
 
+![G3rley Repository's Stats](https://github-readme-stats.vercel.app/api?username=g3rley&show_icons=true)
+
+
+
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
