@@ -24,7 +24,7 @@ const g3rley = {
   database: [PostgreSQL, MySQL, MongoDB],
   architecture: ["microservices", "design system pattern", "clean code"],
   goals: {
-            languages: [ "Rust", "C#", "C/C++", "Scala"],
+            languages: [ "Rust", "C#", "C/C++"],
             engines: "Unreal Development Kit", "Unity",
             skill: "Data Science"
           },
