@@ -37,12 +37,14 @@ const g3rley = {
 }
 ```
 
-
 ## 💻 Open Source Work Stats
 
-
-![G3rley Repository's Stats](https://github-readme-stats.vercel.app/api?username=g3rley&show_icons=true)
-
+<p align="center">
+<a href="https://github.com/g3rley">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g3rley&count_private=true&show_icons=true&theme=merko" />
+  <img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=g3rley&theme=merko"/>
+</a>
+</p>
 
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
