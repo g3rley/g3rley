@@ -26,7 +26,7 @@ const g3rley = {
   pronouns: "he" | "him",
   code: [PHP, Python, Lua, Javascript, Typescript, HTML, CSS],
   tools: [Laravel, Love2d, Flask, Node, Styled-Components, Docker],
-  database: [PostgreSQL, MySQL, MongoDB],
+  databases: [PostgreSQL, MySQL, MongoDB],
   architecture: ["microservices", "design system pattern", "clean code"],
   goals: {
             languages: [ "Rust", "C#", "C/C++"],
