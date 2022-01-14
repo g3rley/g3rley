@@ -20,8 +20,6 @@
 [![Mysql g3rley](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/g3rley)
 
 
-
-
 ### A little more about me...  
 
 ```javascript
