@@ -32,7 +32,7 @@ const g3rley = {
   goals: {
             languages: [ "Rust", "C#", "C/C++"],
             engines: "Unreal Development Kit", "Unity",
-            skill: "Data Science"
+            skills: "Data Science"
           },
  challenge: "I am doing the #100DaysOfCode challenge focused on lua and c++"
 }
