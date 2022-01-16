@@ -25,7 +25,7 @@
 ```javascript
 const g3rley = {
   pronouns: "he" | "him",
-  code: [PHP, Python, Lua, Javascript, Typescript, HTML, CSS],
+  code: [PHP, C/C++, Python, Lua, Javascript, Typescript, HTML, CSS, Sass],
   tools: [Laravel, Love2d, Flask, Node, Styled-Components, Docker],
   databases: [PostgreSQL, MySQL, MongoDB],
   architecture: ["microservices", "design system pattern", "clean code"],
