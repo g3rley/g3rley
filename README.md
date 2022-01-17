@@ -2,6 +2,8 @@
 <p>Software Engineer, Web Developer and Game Development Enthusiast 
 </em></p>
 
+## ⚡ Technologies
+
 [![Linkedin: g3rley](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerley-adriano-26a711a3/)
 [![GitHub g3rley](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/g3rley)
 [![Linux g3rley](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/g3rley)
