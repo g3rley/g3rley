@@ -28,7 +28,7 @@
 const g3rley = {
   code: [PHP, C/C++, Python, Lua, Javascript, Typescript, HTML, CSS, Sass],
   tools: [Laravel, Love2d, Flask, Node, Styled-Components, Docker],
-  databases: [PostgreSQL, MySQL, MongoDB],
+  databases: [PostgreSQL, MySQL, MongoDB, Neo4J],
   architecture: ["microservices", "design system pattern", "clean code"],
   goals: {
             languages: [ "Rust", "C#", "C/C++"],
