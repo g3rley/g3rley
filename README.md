@@ -44,15 +44,15 @@ const g3rley = {
 ```
 
 ## :fire: Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g3rley&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3rley&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
 
 ## 💻 Open Source Work Stats
 
 <p align="center">
 <a href="https://github.com/g3rley">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=g3rley&count_private=true&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=g3rley&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=g3rley&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=g3rley&theme=radical&hide_border=true"/>
 </a>
 </p>
 
