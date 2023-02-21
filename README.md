@@ -1,4 +1,4 @@
-<h2> Hi, I'm G3rley Adriano!</h2>
+<h2> Hi, I'm G3rley!</h2>
 <p>Software Engineer, Web Developer and Game Development Enthusiast 
 </em></p>
 
