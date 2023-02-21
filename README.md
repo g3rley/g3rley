@@ -6,16 +6,20 @@
 
 [![Linkedin: g3rley](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerley-adriano-26a711a3/)
 [![GitHub g3rley](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/g3rley)
-[![Linux g3rley](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/g3rley)
-[![Linux g3rley](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/g3rley)
-[![C g3rley](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)](https://github.com/g3rley)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+<br>
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Tensor](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 <br>
 [![Python g3rley](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://github.com/g3rley)
-[![PHP g3rley](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/g3rley)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+[![JavaScript g3rley](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/g3rley)
 [![Lua g3rley](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/g3rley)
+[![PHP g3rley](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/g3rley)
 [![C g3rley](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/g3rley)
 [![C g3rley](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/g3rley)
-[![JavaScript g3rley](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/g3rley)
 <br>
 [![PostgreSQL g3rley](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Mysql g3rley](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/g3rley)
@@ -39,13 +43,18 @@ const g3rley = {
 }
 ```
 
+## :fire: Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g3rley&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 💻 Open Source Work Stats
 
 <p align="center">
 <a href="https://github.com/g3rley">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=g3rley&count_private=true&show_icons=true&theme=merko" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=g3rley&theme=merko"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=g3rley&count_private=true&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=g3rley&theme=radical"/>
 </a>
 </p>
+
 
 ---
