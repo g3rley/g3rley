@@ -3,7 +3,7 @@
 </em></p>
 
 <p align="center">
-  <img src="https://github.com/g3rley/g3rley/assets/96620547/12475953-8b92-4b3a-b56c-6fc23a3cabba" width="400" height="400">
+  <img src="https://github.com/g3rley/g3rley/assets/96620547/0214a89c-d363-4982-b30f-e29753f1aa71" width="400" height="400">
 </p>
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
 <p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
