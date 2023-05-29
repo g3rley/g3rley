@@ -42,7 +42,6 @@
 <a href="https://github.com/g3rley">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=g3rley&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3rley&layout=compact&show_icons=true&theme=tokyonight"/>
-  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=g3rley&theme=tokyonight&hide_border=true"/>
 </a>
 </p>
 
