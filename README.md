@@ -34,6 +34,16 @@
 - Simulation Models for Decision Making
 - Chaotic Dynamics System Modeling
 
+### 📖 Current Courses
+- Applied Data Science Specialization - University of Michigan
+- IBM Machine Learning Professional Certificate - IBM
+- Google Data Analytics Profesional Certificate - Google Career Certificates
+- Mathematics for Machine Learning and Data Science Specialization - DeepLearning.AI
+
+### 📌 Completed Career Tracks
+- [Data Analyst with Python - DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/5c2eaa4557e3187f3a08314000d70b05549c264b)
+- [Data Scientist with Python - DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/7d8fb5570640c48eff766e898a344ec9f9ff1325)
+
 ### 🧊 Kaggle Competitions
 - [ICR - Identifying Age-Related Conditions](https://www.kaggle.com/competitions/icr-identify-age-related-conditions)
 
