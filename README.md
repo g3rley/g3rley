@@ -1,5 +1,5 @@
 <h2> Hi, I'm Gerley!</h2>
-<p>Data Scientist, Software Engineer, and Technology Enthusiast with a strong passion for leveraging data to drive insights and make informed decisions. Experienced in developing and implementing machine learning models, statistical analysis, and data visualization techniques to extract valuable insights from complex datasets. 
+<p>Data Scientist, software Engineer, and technology enthusiast with a strong passion for leveraging data to drive insights and make informed decisions. Experienced in developing and implementing machine learning models, statistical analysis, and data visualization techniques to extract valuable insights from complex datasets. 
 </em></p>
 
 <p align="center">
