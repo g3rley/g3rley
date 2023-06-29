@@ -39,6 +39,9 @@
 - IBM Machine Learning Professional Certificate - IBM
 - Google Data Analytics Profesional Certificate - Google Career Certificates
 - Mathematics for Machine Learning and Data Science Specialization - DeepLearning.AI
+- Inteligência Artifical no Direito - Supremo Tribunal Federal
+- Data Science - Santander Coders
+
 
 ### 📌 Completed Career Tracks
 - [Data Analyst with Python - DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/5c2eaa4557e3187f3a08314000d70b05549c264b)
