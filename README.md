@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
 </p>
 
+### 🎓 Education
+- Information Technology - Universidade Federal de Mato Grosso do Sul
+- Data Science (AI Emphasis) - Descomplica Faculdade Digital
+
 ### 📚 Learning
 - Fuzzy Systems
 - Simulation Models for Decision Making
