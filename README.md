@@ -43,7 +43,6 @@
 - IBM Machine Learning Professional Certificate - IBM
 - Google Data Analytics Profesional Certificate - Google Career Certificates
 - Mathematics for Machine Learning and Data Science Specialization - DeepLearning.AI
-- Inteligência Artifical no Direito - Supremo Tribunal Federal
 - Data Science - Santander Coders
 
 
