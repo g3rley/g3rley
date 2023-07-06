@@ -43,7 +43,7 @@
 - IBM Machine Learning Professional Certificate - IBM
 - Google Data Analytics Profesional Certificate - Google Career Certificates
 - Mathematics for Machine Learning and Data Science Specialization - DeepLearning.AI
-- Data Science - Santander Coders
+- Data Science - Santander Coders - Ada + Santander Brasil
 
 
 ### 📌 Completed Career Tracks
