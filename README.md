@@ -32,6 +32,8 @@
 ### 🎓 Education
 - Information Technology - Universidade Federal de Mato Grosso do Sul
 - Data Science (AI Emphasis) - Descomplica Faculdade Digital
+- Data Science - Santander Coders - Ada + Santander Brasil
+
 
 ### 📚 Learning
 - Fuzzy Systems
@@ -43,8 +45,6 @@
 - IBM Machine Learning Professional Certificate - IBM
 - Google Data Analytics Profesional Certificate - Google Career Certificates
 - Mathematics for Machine Learning and Data Science Specialization - DeepLearning.AI
-- Data Science - Santander Coders - Ada + Santander Brasil
-
 
 ### 📌 Completed Career Tracks
 - [Data Analyst with Python - DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/5c2eaa4557e3187f3a08314000d70b05549c264b)
