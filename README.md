@@ -39,6 +39,7 @@
 - Fuzzy Systems
 - Simulation Models for Decision Making
 - Chaotic Dynamics System Modeling
+- Entrepreneurship
 
 ### 📖 Current Courses
 - Applied Data Science Specialization - University of Michigan
