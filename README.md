@@ -1,5 +1,5 @@
 <h2> Hi, I'm Gerley!</h2>
-<p>Data Scientist, software engineer, and technology enthusiast with a strong passion for leveraging data to drive insights and make informed decisions. Experienced in developing and implementing machine learning models, statistical analysis, and data visualization techniques to extract valuable insights from complex datasets. 
+<p>Data Scientist, software developer, and technology enthusiast with a strong passion for leveraging data to drive insights and make informed decisions. Experienced in developing and implementing machine learning models, statistical analysis, and data visualization techniques to extract valuable insights from complex datasets. 
 </em></p>
 
 <p align="center">
@@ -31,6 +31,7 @@
 
 ### 📚 Learning
 - Entrepreneurship
+- Data Science in Healthcare
 - Fuzzy Systems
 - Simulation Models for Decision Making
 - Chaotic Dynamics System Modeling
