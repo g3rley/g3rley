@@ -29,6 +29,11 @@
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
 </p>
 
+### 🎓 Education
+- Medicine
+- Information Technology
+- Data Science
+
 ### 📚 Learning
 - Entrepreneurship
 - Data Science in Healthcare
