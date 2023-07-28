@@ -32,7 +32,7 @@
 ### 🎓 Education
 - Medicine
 - Information Technology
-- Data Science
+- Data Science (AI Emphasis)
 
 ### 📚 Learning
 - Entrepreneurship
