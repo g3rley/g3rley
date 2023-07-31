@@ -1,5 +1,5 @@
 <h2> Hi, I'm Gerley!</h2>
-<p>Data Scientist, software developer, and technology enthusiast with a strong passion for leveraging data to drive insights and make informed decisions. Experienced in developing and implementing machine learning models, statistical analysis, and data visualization techniques to extract valuable insights from complex datasets. 
+<p>Cientista de Dados, desenvolvedor de software e entusiasta de tecnologia com uma forte paixão por utilizar dados para obter insights e tomar decisões informadas. Experiência no desenvolvimento e implementação de modelos de aprendizado de máquina, análise estatística e técnicas de visualização de dados para extrair informações valiosas de conjuntos de dados complexos.
 </em></p>
 
 <p align="center">
