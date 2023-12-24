@@ -30,9 +30,7 @@
 </p>
 
 ### 🎓 Education
-- Medicine
-- Information Technology
-- Data Science (AI Emphasis)
+- Medicina
 
 ### 📚 Learning
 - Entrepreneurship
